@@ -9,10 +9,10 @@ Server.dll, statistics webiste code, and server downloads for the Ch1ckenscoop A
 
 ---
 
-#####Project Home | [Downloads](https://github.com/Ch1ckenscoop/Downloads) | [Wiki](https://github.com/Ch1ckenscoop/svn/tree/master/wiki) | [Issues](https://github.com/Ch1ckenscoop/svn/issues) | [Source](https://github.com/Ch1ckenscoop/svn) |
+#####Project Home | [`Downloads`](https://github.com/Ch1ckenscoop/Downloads) | [`Wiki`](https://github.com/Ch1ckenscoop/svn/tree/master/wiki) | [`Issues`](https://github.com/Ch1ckenscoop/svn/issues) | [`Source`](https://github.com/Ch1ckenscoop/svn) |
 
 #####Featured
-* [`InstallServer`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/InstallServer.wiki)
+* [**InstallServer**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/InstallServer.wiki)
 * [`Changing Setting`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Changing_Settings.wiki)
 * [`Hordemode`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Hordemode.wiki)
 * [`Show all`](https://github.com/Ch1ckenscoop/svn/tree/master/server/swarm/cfg) 
