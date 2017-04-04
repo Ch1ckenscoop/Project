@@ -5,7 +5,7 @@
 []()
 
 ##### Welcome to the Ch1ckenscoop Project page!
-Server.dll, statistics webiste code, and server downloads for the Ch1ckenscoop Alien Swarm mod!
+Server.dll, statistics website code, and server downloads for the Ch1ckenscoop Alien Swarm mod!
 
 ---
 
@@ -13,7 +13,7 @@ Server.dll, statistics webiste code, and server downloads for the Ch1ckenscoop A
 
 ##### Featured
 * [**InstallServer**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/InstallServer.wiki)
-* [`Changing Setting`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Changing_Settings.wiki)
+* [`Changing Settings`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Changing_Settings.wiki)
 * [`Hordemode`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Hordemode.wiki)
 * [`Show all`](https://github.com/Ch1ckenscoop/svn/tree/master/server/swarm/cfg) 
 
