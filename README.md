@@ -17,6 +17,9 @@ Server.dll, statistics website code, and server downloads for the Ch1ckenscoop A
 * [`Hordemode`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Hordemode.wiki)
 * [`Show all`](https://github.com/Ch1ckenscoop/svn/tree/master/server/swarm/cfg) 
 
+##### Addition Mod
+* [**Reactivedrop**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ccasrd.wiki)
+
 ---
 
 ##### Project information
