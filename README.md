@@ -18,7 +18,7 @@ Server.dll, statistics website code, and server downloads for the Ch1ckenscoop A
 * [`Show all`](https://github.com/Ch1ckenscoop/svn/tree/master/server/swarm/cfg) 
 
 ##### Addition Mod
-* [**`Alien Swarm Reactivedrop`**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ccasrd.wiki)
+* [**`Alien Swarm Reactivedrop`**](https://github.com/Softcopy/svn-rd/blob/master/wiki/batch_download.wiki)
 
 ---
 
